@@ -58,7 +58,7 @@
   <a href="https://www.linkedin.com/in/angykikonita05/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="[Angelica Denisse Garcia Sanchez](https://app.slack.com/client/T0NNB6T0R/D05HM2HUY4Q/rimeto_profile/U051AV150JE)" target="_blank">
+  <a href="ANGYkikonita" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="slack logo"  />
   </a>
   <a href="https://ko-fi.com/angykikonita" target="_blank">
